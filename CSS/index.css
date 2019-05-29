@@ -346,3 +346,17 @@ ul {
   text-decoration: none;
   color: #c7ddcc;
 }
+
+/* Media queries //////////////////////////////////////////////////////////// */
+
+@media (max-width: 600px) {
+  p {
+    font-size: 60px;
+  }
+}
+
+@media (max-width: 800px) {
+  p {
+    font-size: 60px;
+  }
+}
